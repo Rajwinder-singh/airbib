@@ -1,0 +1,22 @@
+[
+	{
+		"img": "https://drive.google.com/uc?export=view&id=1fwD-EMCHdRAVTet0d-Ulz3rfsA1q60gJ",
+		"location": "New York",
+		"title": "Grand Plaza",
+		"description": "Luxury hotel in the heart of Manhattan.",
+		"star": "4.5",
+		"price": "250",
+		"long": "-0.0022275",
+		"lat": "51.5421655"
+	},
+	{
+		"img": "https://drive.google.com/uc?export=view&id=1fwD-EMCHdRAVTet0d-Ulz3rfsA1q60gJ",
+		"location": "San Francisco",
+		"title": "Harbor View",
+		"description": "Charming hotel with views of the Golden Gate Bridge.",
+		"star": "4.3",
+		"price": "200",
+		"long": "-0.095091",
+		"lat": "51.48695"
+	}
+]
