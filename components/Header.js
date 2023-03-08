@@ -1,5 +1,4 @@
-import Image from "next/image";
-import { 
+import {
     MagnifyingGlassIcon,
     GlobeAltIcon,
     Bars3Icon,
